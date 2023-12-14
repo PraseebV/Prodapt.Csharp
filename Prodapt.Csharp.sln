@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.Csharp.Day4", "Prodapt.Csharp.Day4\Prodapt.Csharp.Day4.csproj", "{11B2E727-823C-4A5C-A40C-CC649BE591D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodapt.GitHub", "Prodapt.GitHub\Prodapt.GitHub.csproj", "{B171FD86-E9B9-426F-A723-CAE2ED5FDAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B2E727-823C-4A5C-A40C-CC649BE591D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B2E727-823C-4A5C-A40C-CC649BE591D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B2E727-823C-4A5C-A40C-CC649BE591D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B2E727-823C-4A5C-A40C-CC649BE591D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B171FD86-E9B9-426F-A723-CAE2ED5FDAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B171FD86-E9B9-426F-A723-CAE2ED5FDAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B171FD86-E9B9-426F-A723-CAE2ED5FDAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B171FD86-E9B9-426F-A723-CAE2ED5FDAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED2F9B9F-E683-4CB2-841B-2FB7652F3B92}
+	EndGlobalSection
+EndGlobal
